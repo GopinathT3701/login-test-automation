@@ -1,4 +1,4 @@
-package com.automation.Login_page;
+package com.automation.Pdv2;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;

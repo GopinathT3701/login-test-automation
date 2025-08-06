@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.Remedi_App;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserContext;
