@@ -1,4 +1,4 @@
-package com.example;
+package com.automation.Login_page;
 
 import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;

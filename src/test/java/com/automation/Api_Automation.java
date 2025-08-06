@@ -1,4 +1,4 @@
-package com.example;
+package com.automation;
 
 import com.microsoft.playwright.APIRequestContext;
 import com.microsoft.playwright.APIResponse;
