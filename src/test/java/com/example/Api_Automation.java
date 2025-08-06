@@ -5,7 +5,7 @@ import com.microsoft.playwright.APIResponse;
 import com.microsoft.playwright.Playwright;
 import com.microsoft.playwright.options.RequestOptions;
 
-public class Api {
+public class Api_Automation {
   public static void main(String[] args) {
     try (Playwright playwright = Playwright.create()) {
       // Create API request context
