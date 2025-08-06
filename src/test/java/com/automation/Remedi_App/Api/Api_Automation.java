@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.Remedi_App.Api;
 
 import com.microsoft.playwright.APIRequestContext;
 import com.microsoft.playwright.APIResponse;
